@@ -14,7 +14,7 @@ I inspected different areas of my house and documented security mechanisms throu
 During the inspection of my home environment, multiple security concepts were identified:
 
 1. :Door Lock – Access Control
-   The physical door lock restricts unauthorised entry, demonstrating basic access control principles similar to authentication mechanisms in digital systems.
+   The image of the main door as well as room door indicates that physical door lock restricts unauthorised entry, demonstrating basic access control principles similar to authentication mechanisms in digital systems.
 
 2. :Wi-Fi Router – Network Security & Authentication
    A black coloor router shown in the image is a Wi-Fi router, router requires a password for connection, implementing authentication and encryption to prevent unauthorised network access.
