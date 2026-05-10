@@ -21,8 +21,6 @@ The AI response associated leadership and executive traits more strongly with ma
 ### Potential Bias
 This demonstrates gender bias because the response may reinforce traditional occupational stereotypes.
 
-### Evidence
-Screenshot: `bias_case1_gender.png`
 
 ---
 
@@ -36,9 +34,6 @@ The AI response heavily favored Western developed nations and provided limited r
 
 ### Potential Bias
 This reflects cultural and geographic bias because certain countries or regions may be overrepresented due to training data imbalance.
-
-### Evidence
-Screenshot: `bias_case2_cultural.png`
 
 ---
 
