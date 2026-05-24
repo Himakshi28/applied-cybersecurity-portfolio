@@ -19,8 +19,7 @@ Topics discussed included:
 ---
 
 ## Evidence
-- `friend_teaching1.png` — Screenshot of cybersecurity advice shared.
-- `friend_teaching2.png` — Additional cybersecurity discussion screenshot.
+- B14_1.png — Screenshot of cybersecurity advice shared.
 
 ---
 
