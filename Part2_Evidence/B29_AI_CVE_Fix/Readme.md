@@ -43,14 +43,6 @@ All three AI systems consistently recommended removing hardcoded credentials and
 
 ---
 
-## Evidence
-- `ai_fix_chatgpt.png`
-- `ai_fix_gemini.png`
-- `ai_fix_copilot.png`
-- `ai_comparison.png`
-
----
-
 ## Outcome
 This activity demonstrated how generative AI systems can provide cybersecurity remediation guidance and how their recommendations can be compared for consistency.
 
