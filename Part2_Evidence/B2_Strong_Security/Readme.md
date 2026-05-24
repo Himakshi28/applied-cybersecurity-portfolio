@@ -13,9 +13,6 @@ A strong password example containing uppercase letters, lowercase letters, numbe
 ### Security Benefit
 Strong passwords are significantly harder to guess or brute-force compared to weak passwords.
 
-### Evidence
-`strong1_password.png`
-
 ---
 
 ## Strong Security Implementation 2 — Multi-Factor Authentication (MFA)
@@ -25,9 +22,6 @@ Multi-factor authentication was enabled on an account.
 
 ### Security Benefit
 MFA adds an additional authentication layer beyond passwords, reducing the risk of unauthorized access.
-
-### Evidence
-`strong2_mfa.png`
 
 ---
 
@@ -39,9 +33,6 @@ FileVault full-disk encryption was enabled on the macOS device.
 ### Security Benefit
 FileVault encrypts all files stored on the device, protecting sensitive data if the device is lost or stolen.
 
-### Evidence
-`strong3_filevault.png`
-
 ---
 
 ## Strong Security Implementation 4 — Touch ID / Biometric Authentication
@@ -51,9 +42,6 @@ Biometric authentication was enabled on the device.
 
 ### Security Benefit
 Biometric authentication improves account and device security while reducing unauthorized access risks.
-
-### Evidence
-`strong4_touchid.png`
 
 ---
 
@@ -65,8 +53,6 @@ Automatic updates were enabled on the system.
 ### Security Benefit
 Automatic updates ensure security patches and vulnerability fixes are installed regularly.
 
-### Evidence
-`strong5_updates.png`
 
 ---
 
